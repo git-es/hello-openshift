@@ -6,4 +6,5 @@ data:
   application.properties: |
     hello=OpenShift
     key=value
+    gut=boese
 ---
